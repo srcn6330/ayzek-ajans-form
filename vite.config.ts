@@ -13,3 +13,6 @@ export default defineConfig({
     sourcemap: false
   }
 })
+git add vite.config.ts
+git commit -m "Fix Vite config for Vercel deployment"
+git push origin main
